@@ -6,6 +6,9 @@ public class Sample1 {
 		
 		System.out.println("This is a Main Class");
 		System.out.println("1");
+		System.out.println("2");
+
+		
 		
 		
 	}
